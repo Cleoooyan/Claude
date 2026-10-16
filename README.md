@@ -2,7 +2,7 @@
 
 波普漫画风的扑克构筑网页游戏，主题是 1980 年代美国深夜电视秀：你是牌局直播秀的主持人，凑牌型拿筹码 × 倍率拉收视，讨好台下 3 位口味各异的观众，收工后去后台签艺人、买赞助广告和道具，播满 8 期。方向见 `docs/direction.md`。
 
-代码里沿用扑克 / Balatro 的叫法（ante、blind、joker、tarot、planet、shop），界面文字用深夜电视秀的叫法，对照表见 `CLAUDE.md`。
+代码里沿用扑克 / Balatro 的叫法（ante、blind、joker、tarot、planet、shop），界面文字用深夜电视秀的叫法，对照表见 `AGENTS.md`（给 AI 助手的项目说明，Claude Code 和 Codex 共用；`CLAUDE.md` 只是引用它）。
 
 ## 本地运行
 
